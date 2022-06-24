@@ -37,7 +37,7 @@ border-color: steelblue;
 background-color: steelblue;
 }
 
-.female {
+.female,.abc {
 border-color: pink;
 background-color: pink;
 color: #333;
